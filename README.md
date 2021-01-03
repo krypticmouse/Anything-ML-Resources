@@ -28,11 +28,15 @@
 **Custom Data Augmentation Layer:** https://towardsdatascience.com/writing-a-custom-data-augmentation-layer-in-keras-2b53e048a98 \
 **Pandas Styler:** https://towardsdatascience.com/10-examples-to-master-pandas-styler-408ea794e91 \
 **Hashing Trick:** https://medium.com/value-stream-design/introducing-one-of-the-best-hacks-in-machine-learning-the-hashing-trick-bf6a9c8af18f \
-**Types of Regression:** https://www.listendata.com/2018/03/regression-analysis.html#Linear-Regression 
+**Types of Regression:** https://www.listendata.com/2018/03/regression-analysis.html#Linear-Regression \
+**7 Imp. DS Skills 2021:** https://towardsdatascience.com/7-most-recommended-data-science-skills-to-learn-in-2021-ac26933f0e8a \
+**Rewriting SQL Queries with Pandas:** https://towardsdatascience.com/rewriting-sql-queries-with-pandas-ac08d9f054ec \
+**Acing Coding Interviews for Data Scientists:** https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc
 
 ### Videos:-
 **Corey Schafer:** https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g \
-**Explain Your DS Project:** https://www.youtube.com/watch?v=-mQkrH4-E8A&ab_channel=KrishNaik
+**Explain Your DS Project:** https://www.youtube.com/watch?v=-mQkrH4-E8A&ab_channel=KrishNaik \
+**Free Data Science Courses Nobody is Talking About:** https://www.youtube.com/watch?v=Ip50cXvpWY4&feature=youtu.be&ab_channel=KenJee
 
 ### Books:-
 **All in One Resource Kit:** https://elitedatascience.com/wp-content/uploads/2016/11/Supercharge-Your-Data-Science-Career-1.pdf \
