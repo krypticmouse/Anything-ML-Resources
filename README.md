@@ -13,14 +13,14 @@
 
 ### Books:-
 **Statistics for Data Science:** http://www.elfhs.ssru.ac.th/morakot_wo/file.php/1/9781788290678-STATISTICS_FOR_DATA_SCIENCE.pdf \
-**Practical Statistics for Data Scientists:** https://math2510.coltongrainger.com/books/2017-bruce-and-bruce-pratical-statistics-for-data-scientists.pdf
+**Practical Statistics for Data Scientists:** https://math2510.coltongrainger.com/books/2017-bruce-and-bruce-pratical-statistics-for-data-scientists.pdf \
 **Think Stats:** https://greenteapress.com/thinkstats/thinkstats.pdf
 
 ## Data Science Related
 ### Tools:-
-**8 New Tools 2020:** https://towardsdatascience.com/8-new-tools-i-learned-as-a-data-scientist-in-2020-6dea2f847c32
-**Streamlit:** https://towardsdatascience.com/quickly-build-and-deploy-an-application-with-streamlit-988ca08c7e83
-**Pandas UI:** https://towardsdatascience.com/pandasgui-analyzing-pandas-dataframes-with-a-graphical-user-interface-36f5c1357b1d
+**8 New Tools 2020:** https://towardsdatascience.com/8-new-tools-i-learned-as-a-data-scientist-in-2020-6dea2f847c32 \
+**Streamlit:** https://towardsdatascience.com/quickly-build-and-deploy-an-application-with-streamlit-988ca08c7e83 \
+**Pandas UI:** https://towardsdatascience.com/pandasgui-analyzing-pandas-dataframes-with-a-graphical-user-interface-36f5c1357b1d \
 **H2O Wave:** https://www.youtube.com/watch?v=s0nmZZgmJ2Q&ab_channel=HackerShrine
 
 ### Articles:-
