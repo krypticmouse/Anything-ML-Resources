@@ -9,7 +9,9 @@
 **Intuition for Bayes Theorem:** https://machinelearningmastery.com/intuition-for-bayes-theorem-with-worked-examples/ \
 **Max. Likehood in Real Life:** https://towardsdatascience.com/maximum-likelihood-estimation-in-real-life-optimizing-study-time-d5cc083d25b4#:~:text=Maximum%20likelihood%20estimation%20is%20a,the%20parameters%20of%20a%20model.&text=Plotting%20the%20data%20makes%20it,exam%20and%20its%20final%20grade \
 **Statistics Course:** https://courses.lumenlearning.com/introstats1/ \
-**Markov Chain and Model:** https://towardsdatascience.com/markov-models-and-markov-chains-explained-in-real-life-probabilistic-workout-routine-65e47b5c9a73
+**Markov Chain and Model:** https://towardsdatascience.com/markov-models-and-markov-chains-explained-in-real-life-probabilistic-workout-routine-65e47b5c9a73 \
+**Varience Inflation Factor:** https://www.statisticshowto.com/variance-inflation-factor/ \
+**Linear Algebra:** https://pabloinsente.github.io/intro-linear-algebra
 
 ### Books:-
 **Statistics for Data Science:** http://www.elfhs.ssru.ac.th/morakot_wo/file.php/1/9781788290678-STATISTICS_FOR_DATA_SCIENCE.pdf \
@@ -31,12 +33,19 @@
 **Types of Regression:** https://www.listendata.com/2018/03/regression-analysis.html#Linear-Regression \
 **7 Imp. DS Skills 2021:** https://towardsdatascience.com/7-most-recommended-data-science-skills-to-learn-in-2021-ac26933f0e8a \
 **Rewriting SQL Queries with Pandas:** https://towardsdatascience.com/rewriting-sql-queries-with-pandas-ac08d9f054ec \
-**Acing Coding Interviews for Data Scientists:** https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc
+**Acing Coding Interviews for Data Scientists:** https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc \
+**Measuring Cluster Performance:** https://medium.com/@haataa/how-to-measure-clustering-performances-when-there-are-no-ground-truth-db027e9a871c \
+**Super Resolution:** https://beyondminds.ai/an-introduction-to-super-resolution-using-deep-learning/#:~:text=Super%20Resolution%20is%20the%20process,degradation%20(such%20as%20blurring) \
+**Music Categorization using Clustering:** https://towardsdatascience.com/k-means-clustering-and-pca-to-categorize-music-by-similar-audio-features-df09c93e8b64?source=social.tw \
+**NLP Trends to look forward to:** https://analyticsindiamag.com/top-7-nlp-trends-to-look-forward-to-in-2021/ \
+**Temporal Convolution Network:** https://towardsdatascience.com/temporal-convolutional-networks-the-next-revolution-for-time-series-8990af826567
 
 ### Videos:-
 **Corey Schafer:** https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g \
 **Explain Your DS Project:** https://www.youtube.com/watch?v=-mQkrH4-E8A&ab_channel=KrishNaik \
-**Free Data Science Courses Nobody is Talking About:** https://www.youtube.com/watch?v=Ip50cXvpWY4&feature=youtu.be&ab_channel=KenJee
+**Free Data Science Courses Nobody is Talking About:** https://www.youtube.com/watch?v=Ip50cXvpWY4&feature=youtu.be&ab_channel=KenJee \
+**Practical DL for Coders:** https://www.youtube.com/watch?v=0oyCUWLL_fU&ab_channel=freeCodeCamp.org \
+**OpenCV in 3 Hours:** https://youtu.be/WQeoO7MI0Bs
 
 ### Books:-
 **All in One Resource Kit:** https://elitedatascience.com/wp-content/uploads/2016/11/Supercharge-Your-Data-Science-Career-1.pdf \
@@ -47,4 +56,5 @@
 **What is Quantum Comp.:** https://www.ibm.com/quantum-computing/learn/what-is-quantum-computing/ \
 **Python Talks:** https://pyvideo.org/tags.html \
 **Python Tutorial:** https://www.programiz.com/python-programming \
-**Salary Negotiation with HR:** https://www.youtube.com/watch?v=4-kDCP0Bor0&feature=youtu.be&ab_channel=KrishNaik
+**Salary Negotiation with HR:** https://www.youtube.com/watch?v=4-kDCP0Bor0&feature=youtu.be&ab_channel=KrishNaik \
+**Occum's Razor:** https://www.britannica.com/topic/Occams-razor
