@@ -38,7 +38,9 @@
 **Super Resolution:** https://beyondminds.ai/an-introduction-to-super-resolution-using-deep-learning/#:~:text=Super%20Resolution%20is%20the%20process,degradation%20(such%20as%20blurring) \
 **Music Categorization using Clustering:** https://towardsdatascience.com/k-means-clustering-and-pca-to-categorize-music-by-similar-audio-features-df09c93e8b64?source=social.tw \
 **NLP Trends to look forward to:** https://analyticsindiamag.com/top-7-nlp-trends-to-look-forward-to-in-2021/ \
-**Temporal Convolution Network:** https://towardsdatascience.com/temporal-convolutional-networks-the-next-revolution-for-time-series-8990af826567
+**Temporal Convolution Network:** https://towardsdatascience.com/temporal-convolutional-networks-the-next-revolution-for-time-series-8990af826567 \
+**Precision Recall Curve:** https://towardsdatascience.com/precision-recall-curves-how-to-easily-evaluate-machine-learning-models-in-no-time-435b3dd8939b \
+**Saliency Map:** https://towardsdatascience.com/saliency-map-using-pytorch-68270fe45e80
 
 ### Videos:-
 **Corey Schafer:** https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g \
